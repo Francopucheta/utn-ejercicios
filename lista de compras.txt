@@ -2,3 +2,5 @@ bananas
 manzanas
 huevos
 galletitas
+tomate
+repollo
